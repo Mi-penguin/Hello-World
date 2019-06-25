@@ -1,10 +1,5 @@
 # Hello-World
-My first repository
+I think I can do this
 
 
-
-
-
-
-
-I'm an outgoing boy and I'm 14 years old this year
+It seems easy doesn't it？
